@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Handel Gothic';
+    src: url('HandelGothic.eot');
+    src: url('HandelGothic.eot?#iefix') format('embedded-opentype'),
+        url('HandelGothic.woff2') format('woff2'),
+        url('HandelGothic.woff') format('woff'),
+        url('HandelGothic.ttf') format('truetype'),
+        url('HandelGothic.svg#HandelGothic') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
